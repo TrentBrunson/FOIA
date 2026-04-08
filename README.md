@@ -10,7 +10,7 @@ Run Script 2 → point it at that folder and search.
 Enhancements:
 Concurrent downloads.  Emhanced error handling and retry logic.  Progress tracking and reporting.
 
-###Docker
+### Docker
 
 BASH
 Run Elasticsearch 8.x with everything you need for semantic search
