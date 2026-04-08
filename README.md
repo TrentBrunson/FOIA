@@ -24,10 +24,10 @@ docker run -d \
   --restart unless-stopped \
   elasticsearch:8.15.0
 
-  then...
+  then:  
   docker compose up -d
 
-  validation check - running:
+  validation check - running:  
   docker logs elasticsearch
   curl -X GET "http://localhost:9200"
 
