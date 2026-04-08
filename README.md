@@ -13,7 +13,7 @@ Concurrent downloads.  Emhanced error handling and retry logic.  Progress tracki
 ###Docker
 
 BASH
-# Run Elasticsearch 8.x with everything you need for semantic search
+Run Elasticsearch 8.x with everything you need for semantic search
 docker run -d \
   --name elasticsearch \
   -p 9200:9200 \
